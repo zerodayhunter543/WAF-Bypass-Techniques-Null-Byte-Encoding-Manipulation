@@ -136,10 +136,10 @@ techniques/	Detailed breakdown of each bypass method
 browser-tests/	How different browsers parse malformed input
 waf-behavior/	Notes on popular WAFs (Cloudflare, ModSecurity, AWS WAF, etc.)
 cheatsheet.md	Quick reference for bypass techniques
-📚 Resources
+📚 Resources,,
 OWASP: WAF Evasion Techniques
 
-PortSwigger: Bypassing WAFs
+
 
 PayloadsAllTheThings: WAF Bypass
 
